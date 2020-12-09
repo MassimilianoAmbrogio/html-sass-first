@@ -1,0 +1,32 @@
+// VARS
+$primary-color: dodgerblue;
+$secondary-color: #26A5FF;
+$back-color: #fff;
+$text-color: #333;
+
+$main-font: sans-serif;
+$cursive-font: cursive;
+
+// GENERAL
+body {
+   font-family: $main-font;
+   color: $text-color;
+   background: $back-color;
+}
+
+.title,
+.sub-title {
+   font-family: $cursive-font;
+}
+
+.title {
+   color: $primary-color;
+}
+
+.sub-title {
+   color: $secondary-color;
+}
+
+.evidence {
+   color: $primary-color;
+}

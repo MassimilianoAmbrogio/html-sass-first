@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  color: #333;
+  background: #fff;
+}
+
+.title,
+.sub-title {
+  font-family: cursive;
+}
+
+.title {
+  color: dodgerblue;
+}
+
+.sub-title {
+  color: #26A5FF;
+}
+
+.evidence {
+  color: dodgerblue;
+}
